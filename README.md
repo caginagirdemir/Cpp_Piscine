@@ -2,36 +2,36 @@
 
 - **Cpp Module 00**
 
-Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.
+  Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.
 
-- **Module 01**
+- **Cpp Module 01**
 
-Memory allocation, pointers to members, references, switch statement
+  Memory allocation, pointers to members, references, switch statement
 
-- **Module 02**
+- **Cpp Module 02**
 
-Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form
+  Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form
 
-- **Module 03**
+- **Cpp Module 03**
 
-Inheritance
+  Inheritance
 
-- **Module 04**
+- **Cpp Module 04**
 
-Subtype polymorphism, abstract classes, interfaces
+  Subtype polymorphism, abstract classes, interfaces
 
-- **Module 05**
+- **Cpp Module 05**
 
-Repetition and Exceptions
+  Repetition and Exceptions
 
-- **Module 06**
+- **Cpp Module 06**
 
-C++ casts
+  C++ casts
 
-- **Module 07**
+- **Cpp Module 07**
 
-C++ templates
+  C++ templates
 
-- **Module 08**
+- **Cpp Module 08**
 
-Templated containers, iterators, algorithms
+  Templated containers, iterators, algorithms

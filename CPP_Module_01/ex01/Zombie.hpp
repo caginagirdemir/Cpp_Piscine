@@ -7,9 +7,9 @@
 class Zombie{
     public:
         void announce(void);
-        Zombie(std::string name);
+        //Zombie(std::string name);
         //default constructor without parameter
-        Zombie(void) = default;
+        Zombie(void);
         ~Zombie(void);
         void set_name(std::string name);
     private:

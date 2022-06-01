@@ -1,6 +1,6 @@
 all:
-	c++ -o zombie Zombie.cpp main.cpp zombieHorde.cpp -Wall -Wextra -Werror
+	c++ -o zombieHorde Zombie.cpp main.cpp zombieHorde.cpp -Wall -Wextra -Werror
 clean:
-	rm -rf zombie
+	rm -rf zombieHorde
 re: clean all
 .PHONY: all, clean, re

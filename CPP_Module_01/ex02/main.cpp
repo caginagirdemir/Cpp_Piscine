@@ -7,6 +7,7 @@ int main()
     std::string *stringPTR;
     stringPTR = &str;
     std::string &stringREF = str;
+    //tek bir atama yapilabilir referens adres değeri degistirilemez
 
     std::cout << str << std::endl;
     std::cout << stringPTR << std::endl;

@@ -4,7 +4,7 @@
 
   First, implement a *Zombie* class. It has a string private attribute name.
 
-  Add a member function void announce (void)\; to the Zombie class. Zombies announce themselves as follows:
+  Add a member function ```void announce (void);``` to the Zombie class. Zombies announce themselves as follows:
 
   name: BraiiiiiinnnzzzZ...
 

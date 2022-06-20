@@ -2,7 +2,7 @@
 
 ## Summary
 - Exercise 00 : String input reading and basic manipulating.
-- Exercise 01 : a class definitaion and decleration. Header file which has functions and parameters defination and its cpp file which has functions and parameters decleration.
+- Exercise 01 : a class definitaion and decleration. Header file which has functions and parameters decleration and its cpp file which has functions and parameters defination.
 
 **Project Instructions**
 

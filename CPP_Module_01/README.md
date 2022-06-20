@@ -1,6 +1,6 @@
 # CPP Module 01
 
-- #### Exercise 00
+- ### Exercise 00
 
 First, implement a *Zombie* class. It has a string private attribute name.
 

@@ -11,6 +11,7 @@
   <summary>Exercise 00</summary>
   
   - ### Exercise 00
+  -----------------
   
     First, implement a **Zombie** class. It has a string private attribute name.
 

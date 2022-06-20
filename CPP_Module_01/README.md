@@ -35,6 +35,7 @@
 
 <details>
   <summary>Exercise 01</summary>
+  
   - ### Exercise 01
 
     Time to create a horde of Zombies!

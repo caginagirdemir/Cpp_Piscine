@@ -19,7 +19,7 @@ FragTrap::FragTrap(std::string _name)
     std::cout << this->name << " FragTrap created \n";
 }
 
-FragTrap::FragTrap(const FragTrap& fragtrap_ref) : ClapTrap()
+FragTrap::FragTrap(const FragTrap& fragtrap_ref) : ScavTrap()
 {
     this->name = fragtrap_ref.name;
     this->health = fragtrap_ref.health;

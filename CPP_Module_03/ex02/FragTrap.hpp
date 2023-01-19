@@ -1,11 +1,10 @@
-#ifndef FLAGTRAP_HPP
-# define FLAGTRAP_HPP
+#pragma once
 
 #include <iostream>
 #include <string>
-#include "ClapTrap.hpp"
+#include "ScavTrap.hpp"
 
-class FragTrap : public ClapTrap
+class FragTrap : public ScavTrap
 {
     public:
         //contructors
@@ -21,5 +20,3 @@ class FragTrap : public ClapTrap
 
 
 };
-
-#endif
